@@ -1,0 +1,111 @@
+body{
+    width:1680px;
+    background:linear-gradient(180deg, white,silver);
+    margin: 0 auto;
+}
+
+.f1{
+    float:right;
+}
+
+p{
+    font-size:50px;
+    font-family:Verdana;
+    color:black;
+    text-align: center;
+}
+
+.fia{
+    position:absolute;
+    top:0;
+}
+
+.pilotogeral{
+    background:linear-gradient(90deg, white, orange, silver);
+    font-weight: bolder;
+    font-size: 35;
+    font-family:'Courier New', Courier, monospace;
+    width:1500px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+}
+table{
+    border:3px;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+tr{
+    font-size: 30px;
+    text-align:center;
+    font-weight: bolder;
+}
+.pilotogp1{
+    background:linear-gradient(180deg, white,red);
+    font-weight: bolder;
+    font-size: 35;
+    font-family:'Courier New', Courier, monospace;
+    width:1500px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+    border-image:auto;
+}
+.pilotogp2{
+    background:linear-gradient(180deg, white,green);
+    font-weight: bolder;
+    font-size: 35;
+    font-family:'Courier New', Courier, monospace;
+    width:1500px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+}
+.pilotogp3{
+    background:linear-gradient(180deg, white,blue);
+    font-weight: bolder;
+    font-size: 35;
+    font-family:'Courier New', Courier, monospace;
+    width:1500px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+}
+.equipe{
+    background:linear-gradient(90deg, blue, red);
+    font-size: 35;
+    font-family:'Courier New', Courier, white;
+    width:1665px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+    border-image:auto;
+}
+.pilotos{
+    background:linear-gradient(90deg,orange,blue);
+    font-size: 35;
+    font-family:'Courier New', Courier, white;
+    width:1600px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+    border-image:auto;
+}
+.pontos{
+    background-color: orange;
+    font-size: 35;
+    font-family:'Courier New', Courier, white;
+    width:490px;
+    border:3px solid black;
+    position:sticky;
+    left: 90px;
+    border-radius: 8px;
+    border-image:auto;
+}
